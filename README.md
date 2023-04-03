@@ -25,7 +25,7 @@
 - CSS/SCSS
 
 
-[Prevue Link](https://vitaliidox.github.io/react_people-table-basics/) <br/>
+[Prevue Link](https://vitaliidox.github.io/phone_catalog/) <br/>
 [Figma design](https://www.figma.com/file/uEetgWenSRxk9jgiym6Yzp/Phone-catalog-redesign?node-id=1%3A2)
 
 ### Instructions:
