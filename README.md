@@ -15,7 +15,7 @@ The cart and favorites section is where users can view the products they have se
 <br/>
 
 
-### Technology:
+### Technologies:
 - React
 - Typescript
 - AJAX
