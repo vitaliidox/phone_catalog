@@ -1,6 +1,7 @@
 # Phone Catalog
 
 <br/>
+
 ### Description:
 The objective of this project is to create an online catalog that features an extensive range of cell phones, tablets, and accessories.
 The website is designed with various features that include the ability to add items to favorites or the cart, search for products based on categories, and sort the items to enhance user convenience.
